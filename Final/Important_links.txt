@@ -1,0 +1,24 @@
+For java : https://github.com/zobayer1/cse470-design-patterns/tree/main/design_patterns
+Youtube videos: python & java 
+	Refactoring Full: https://www.youtube.com/watch?v=_0z443gtrnk
+
+	Singleton Pattern and Software Testing: https://www.youtube.com/watch?v=e4gopcceofY
+
+	Adapter Pattern : https://www.youtube.com/watch?v=oYGCP8RlS5w
+
+	The Singleton Pattern Explained and Implemented in Java | Creational Design Patterns | Geekific : https://www.youtube.com/watch?v=tSZn4wkBIu8
+
+	Design Pattern quiz solving : https://www.youtube.com/watch?v=gJJGrZvBRQ0
+
+	470 CFG practice: https://www.youtube.com/watch?v=nvpw5Oth7ck
+
+	CSE470 Observer Pattern: https://www.youtube.com/watch?v=wHOSowZPFzY
+	
+	Design patterns: https://drive.google.com/drive/folders/1zOmXGssnSy2xxpjzE9vKIeZjre91wvAS
+
+
+Supportive materials: https://drive.google.com/drive/folders/1stQdzcyppssE9_w_YDTvs7Ns0D1Y5chM
+
+
+
+	
